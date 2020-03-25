@@ -9,6 +9,9 @@
 -BFS
 //Problem 1 (Multiple of number not containing some digits): https://www.spoj.com/problems/MULTII/
 
+-Binary Search
+//Problem 1: https://codeforces.com/contest/1168/problem/A
+
 -Dealing with periodic repeats:
 
 //Problem 1: https://codeforces.com/problemset/problem/173/A
@@ -20,6 +23,8 @@
 //Problem 2: https://codeforces.com/problemset/problem/137/D
 //Problem 3: https://codeforces.com/contest/229/problem/D
 //Problem 4 (Mutually Dependent Recurrence): https://www.hackerrank.com/challenges/alien-languages/problem
+//Problem 5: https://codeforces.com/contest/489/problem/F
+//Problem 6: http://acm.timus.ru/problem.aspx?num=1526&space=1
 
 -DP on Tree:
 //Problem 1 (Minimum Vertex Cover + Number of Ways): https://www.spoj.com/problems/VOCV/ 
@@ -35,6 +40,9 @@
 
 //Problem 1: https://codeforces.com/contest/616/problem/C
 
+-Flows:
+//Problem 1 (Remove min number of vertices such that shortest path > K): https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=99999999&category=311&page=show_problem&problem=2323
+
 (Probability):
 //Problem 1: https://codeforces.com/contest/513/problem/G2
 //Problem 2: https://www.codechef.com/GWR17ROL/problems/KALADIN/
@@ -46,6 +54,7 @@
 //Problem 2: https://codeforces.com/contest/839/problem/D
 //Problem 3: https://www.codechef.com/ONIG2019/problems/BIT_CSUM/
 //Solution 3: https://www.codechef.com/viewsolution/23676665
+//Problem 4: https://www.hackerrank.com/contests/w3/challenges/gcd-product/problem
 
 -Graph Theory:
 
@@ -72,11 +81,19 @@
 //Problem 5 (Perfect Powers in a range): https://codeforces.com/problemset/problem/955/C
 //Problem 6 (D length Jumps in Intervals): https://atcoder.jp/contests/arc068/tasks/arc068_c
 //Problem 7 (Converging K points to Median - Cost): https://www.codechef.com/viewsolution/23192706
-//problem 8 (DFS with missing edges): https://codeforces.com/contest/653/problem/E
+//Problem 8 (DFS with missing edges): https://codeforces.com/contest/653/problem/E
+//Problem 9 (Interactive - Tree Labelling): https://codeforces.com/contest/1075/problem/D
+//Problem 10 (100 length palindrome): https://codeforces.com/contest/335/problem/B
 
 -To Copy Paste in Future:
 //Problem 1 (Getting a sequence of + and - by using a sequence of - operationss): http://p.ip.fi/6t7b
 //Problem 2 (Number of ways to place elements such that adjacent are different and given L and R) : https://www.codechef.com/BLUP2019/problems/AHAPH/
+//Problem 3 (Merge Sort Tree): https://codeforces.com/contest/369/problem/E
+//Problem 4 ([N/x] ranges): https://www.hackerrank.com/contests/hourrank-7/challenges/tile-painting-revisited/problem
+//Problem 5 (KMP + DP): https://codeforces.com/problemset/problem/1163/D
+//Problem 6 (Matrix + Linearity of Exp): https://codeforces.com/problemset/problem/1042/E
+//Problem 7 (Rerooting): https://codeforces.com/contest/1187/problem/E
 
+(https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/numbers-summation/)
 Resources:
 https://www.careerbless.com/aptitude/qa/permutations_combinations_imp7.php
