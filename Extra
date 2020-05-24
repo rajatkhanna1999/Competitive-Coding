@@ -31,6 +31,7 @@
 //Problem 2 (Number of subtrees with diameter <=K): https://www.spoj.com/problems/CNTTREE/
 //Problem 3: https://codeforces.com/problemset/problem/815/C
 //Problem 4 (Smaller to Larger merging): https://csacademy.com/contest/round-31/task/uniform-trees/
+//Problem 5 (Vaults): https://codeforces.com/problemset/problem/855/C
 
 -DFS
 //Problem 1 (Virtual Nodes):  https://codeforces.com/contest/821/problem/D
@@ -63,9 +64,17 @@
 //Problem 3: https://codeforces.com/contest/1040/problem/E
 //Problem 4: (DSU with Undo + Divide and Conquer): https://codeforces.com/contest/813/problem/F
 
+-Hashing:
+
+//Problem 1 (Xor based Hash): https://codeforces.com/problemset/problem/154/C
+
 -Math;
 
 //Problem 1 (Pending): https://www.codechef.com/ICMT2019/problems/ICM06
+
+-Randomized:
+
+//Problem 1: https://codeforces.com/problemset/problem/1310/D
 
 -Smart Greedy:
 
